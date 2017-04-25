@@ -1,4 +1,5 @@
 {
+   "name": "laravel/laravel",
    "require": {
         "hprose/hprose": ">=2.0.0"
     }
