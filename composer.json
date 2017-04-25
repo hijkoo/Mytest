@@ -1,6 +1,6 @@
 {
-   "name": "hijkoo/Mytest",
+   "name": "hijkoo/mytest",
    "require": {
-        "hprose/hprose": ">=2.0.0"
+        "mytest/mytest": "1.0.0"
     }
 }
